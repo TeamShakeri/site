@@ -25,10 +25,13 @@ author: @TEAMSHAKERI
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  SOCIAL MEDIA:
+    - FACEBOOK: "https://beautifuljekyll.com"
+    - TWITTER: "https://beautifuljekyll.com"
+    - INSTAGRAM: "https://beautifuljekyll.com"
+    - TELEGRAM: "https://beautifuljekyll.com"
+
+  Author's home: "https://hasanshakerirostami.ir"
 
 # --- Logo --- #
 
