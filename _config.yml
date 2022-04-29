@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: HASAN [SHAKERI] ROSTAMI
 
 # Your name to show in the footer
-author: Some Person
+author: SHAROS
 
 # --- List of links in the navigation bar --- #
 
@@ -39,13 +39,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "OFFICE@HASANSHAKERIROSTAMI.IR"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: TEAMSHAKERI
+  github: TEAMSHAKERI
+  twitter: TEAMSHAKERI
+  telegram: TEAMSHAKERI
+  instagram: TEAMSHAKERI
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -258,4 +258,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
