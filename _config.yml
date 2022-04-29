@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: HASAN [SHAKERI] ROSTAMI
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -19,7 +19,7 @@ repository: "VincentTam/beautiful-jekyll"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Some Person
+author: @TEAMSHAKERI
 
 # --- List of links in the navigation bar --- #
 
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/12.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,12 +49,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "office@hasanshakerirostami.ir"
+  facebook: TEAMSHAKERI
+  twitter: TEAMSHAKERI
+  telegram: TEAMSHAKERI
+  instagram: TEAMSHAKERI
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
