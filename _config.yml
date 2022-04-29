@@ -15,9 +15,12 @@ author: SHAROS
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  SOCIAL MEDIA:
+    - FACEBOOK: "https://www.facebook.com/TEAMSHAKERI"
+    - TWITTER: "https://twitter.com/TEAMSHAKERI"
+    - INSTAGRAM: "https://www.instagram.com/TEAMSHAKERI/"
+    - TELEGRAM: "https://t.me/TEAMSHAKERI"
+
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -42,7 +45,6 @@ social-network-links:
   email: "OFFICE@HASANSHAKERIROSTAMI.IR"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: TEAMSHAKERI
-  github: TEAMSHAKERI
   twitter: TEAMSHAKERI
   telegram: TEAMSHAKERI
   instagram: TEAMSHAKERI
